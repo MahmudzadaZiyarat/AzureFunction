@@ -4,4 +4,4 @@
 
 azure-functions
 
-#did we it correctly?
+#what do you think, did we it correctly?
